@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenido{
+    margin: 0 auto;
+    width: 400px;
+}
+label,input{
+    margin-left: 10px;
+}
+textarea{
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.change{
+    margin-left: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#precio{
+   width: 50px;
+}
